@@ -1,0 +1,58 @@
+{
+  "title": "JavaScript Basics",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which keyword declares a constant in JavaScript?",
+      "options": ["var", "let", "const", "static"],
+      "answerIndex": 2
+    },
+    {
+      "id": 2,
+      "question": "Which operator checks both value and type equality?",
+      "options": ["==", "===", "=", "!="],
+      "answerIndex": 1
+    },
+    {
+      "id": 3,
+      "question": "What does typeof null return in JavaScript?",
+      "options": ["null", "undefined", "object", "boolean"],
+      "answerIndex": 2
+    },
+    {
+      "id": 4,
+      "question": "Which method checks whether a value is an array?",
+      "options": ["value.isArray()", "Array.isArray()", "typeof[]", "isArray(value)"],
+      "answerIndex": 1
+    },
+    {
+      "id": 5,
+      "question": "What does JSON.parse() do?",
+      "options": [
+        "Converts a JSON string into a JavaScript value",
+        "Converts any JavaScript value into a JSON string",
+        "Checks whether a variable is defined",
+        "Creates a copy of an object"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": 6,
+      "question": "Which is valid arrow function syntax?",
+      "options": ["function => {}", "-> {}", "() => {}", "() -> {}"],
+      "answerIndex": 2
+    },
+    {
+      "id": 7,
+      "question": "Which array method adds an item to the end of an array?",
+      "options": ["push()", "shift()", "pop()", "slice()"],
+      "answerIndex": 0
+    },
+    {
+      "id": 8,
+      "question": "Which method is designed to determine whether a value is NaN?",
+      "options": ["Number.isNaN()", "Number.isFinite()", "parseInt()", "isInteger()"],
+      "answerIndex": 0
+    }
+  ]
+}
